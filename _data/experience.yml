@@ -3,13 +3,12 @@
 - company: Winchester District Memorial Hospital
   position: Oncology Pharmacist & Clinical Pharmacist
   duration: January 2023  &mdash; Present
-  summary:  WDMH Cancer Treatment Unit is the largest Satellite Cancer Site to the Ottawa Hospital Cancer Centre (TOHCC) in the Ottawa Valley region. Responsiblities:
+  summary:  WDMH Cancer Treatment Unit is the largest Satellite Cancer Site to the Ottawa Hospital Cancer Centre (TOHCC) in the Ottawa Valley region. Responsiblities <ul class="resume-item-list"><li>Continuous learning to stay updated with the latest Cancer Care Ontario treatment and funding pathways &amp; guidelines</li><li>Fell asleep rarely</li><li>Left promptly at end of day (sometimes earlier)</li></ul>
   
-  description: Continuous learning to stay updated with the latest Cancer Care Ontario treatment and funding pathways &amp; guidelines
-  description: Monitor &amp; adjust supportive care medications (e.g., antiemetics) under the medical directive of medical oncologists
-  description: Clinical verification and chemotherapy dosage adjustment based on oncologist-specified treatment parameters, patient laboratory test results
-  description: Technical verification: ensure chemotherapy and sterile preparations are prepared in accordance with NAPRA standards
-  description: Patient education with respect to chemotherapy regimen, their side effects, and management of side effects with supportive medications and non-pharmacological measures
+ # Monitor &amp; adjust supportive care medications (e.g., antiemetics) under the medical directive of medical oncologists
+ # Clinical verification and chemotherapy dosage adjustment based on oncologist-specified treatment parameters, patient laboratory test results
+ # Technical verification: ensure chemotherapy and sterile preparations are prepared in accordance with NAPRA standards
+ # Patient education with respect to chemotherapy regimen, their side effects, and management of side effects with supportive medications and non-pharmacological measures
 
 
 # Placeholder 2
