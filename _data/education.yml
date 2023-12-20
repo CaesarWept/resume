@@ -3,11 +3,12 @@
   uni: Univesity of Toronto
   year: 2017 &mdash; 2021
   awards:
-    - award: Deans' List&colon; First Class Honours
+    - award: Dean's List&colon; First Class Honours
   summary: Co-founder of French Club Phrancophones of Pharmacy
 
 - degree: B.Sc. Biomedical Sciences with Honours
   uni: University of Ottawa
   year: 2012 &mdash; 2021
-  award: Dean's List x 4 years
+  award: 
+    - award: Dean's List x 4 years
   summary: 
