@@ -115,7 +115,7 @@
   text-align: center;
   display: block;
   margin: 1.25rem auto;
-  width: 200px;
+  width: 250px;
   font-size: 1.2rem;
   @include sans_light;
   color: #333;
@@ -127,7 +127,7 @@
     color: #fff;
   }
 
-  &.not-looking { width: 400px; }
+  &.not-looking { width: 550px; }
 }
 
 // resume content styles
