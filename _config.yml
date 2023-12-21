@@ -21,7 +21,7 @@ resume_contact_telephone:       "613-262-0287"
 resume_contact_address:         ""
 
 resume_header_contact_info:     "613-262-0287 • yizhousitu@hotmail.com"
-display_header_contact_info:    "yes"
+display_header_contact_info:    "true"
 
 resume_header_intro: "<p>PharmD. Current interests include: <ul> <li>Quantitative modeling of N-person zero-sum games with Python, R;</li> <li>Day trading equities, FOREX, securities and commodities.</li></ul></p>"
 
