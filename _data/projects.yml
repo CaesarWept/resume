@@ -5,19 +5,19 @@
 - project: Original Music Compositions
   role: Guitar and Piano Compositions
   duration: 2020 &mdash; Present
-  # url: "https://musescore.com/user/35351906"
+  url: "https://musescore.com/user/35351906"
   description: IscoDisco's original guitar and piano compositions. Heavily influenced by Piazzola and contemporary Japanese composers such as Ryo Yoshimata 吉俣良
 
 # Tableau
 - project: Tableau Data Viz projects
   role: 
   duration: 2020 &mdash; Present
-  # url: "https://public.tableau.com/app/profile/iscodisco22/vizzes"
+  url: "https://public.tableau.com/app/profile/iscodisco22/vizzes"
   description: A few Tableau Public data visualization projects I put together in pharmacy school...
 
 # Chemo
 - project: Chemotherapy Medications
   role:
   duration: 2020 &mdash; Present
-  # url: https://iscodisco.notion.site/dea175664f47483181d8ad63974cc4db?v=d35e766c14494690bf5d0ab76aa69a38&pvs=4
-  description: database of miscellaneous chemo drugs I use every day at WDMH. Not for distribution. So far, project includes clinical info (admin, dispensing information, common side effects), funding info, R&D info (FDA approval date, originator, biosimilars), etc. Work in progress.
+  url: https://iscodisco.notion.site/dea175664f47483181d8ad63974cc4db?v=d35e766c14494690bf5d0ab76aa69a38&pvs=4
+  description: Database of miscellaneous chemo drugs I use every day at WDMH. Not for distribution. So far, project includes clinical info (admin, dispensing information, common side effects), funding info (Cancer Care Ontario funding status, eligibility criteria), R&D info (FDA approval date, originator, biosimilars), etc. Work in progress.
