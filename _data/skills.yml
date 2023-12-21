@@ -1,12 +1,21 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+# Front-end
+- skill: Front-end
+  description: HTML5, CSS, YAML, XML, jQuery
 
 # Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Back-end
+  description: Python, Javascript, R
 
 # Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Data viz
+  description: Microsoft Power BI, Tableau
+
+# Databases
+- skill: Databases
+  description: SQL, Microsoft Access
+
+# Adobe
+- skill: Adobe Creative Suite
+  description: Adobe Illustrator, Adobe Photoshop, Adobe Premiere Pro, Adobe Audition, Adobe Lightroom Catalog Management
+  
