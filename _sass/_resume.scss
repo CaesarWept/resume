@@ -115,11 +115,11 @@
   text-align: center;
   display: block;
   margin: 1.25rem auto;
-  width: 300px;
+  width: 250px;
   font-size: 1.2rem;
   @include sans_light;
   color: #333;
-  line-height: 1.1 rem;
+  line-height: 1.1rem;
   @include transition(all .2s ease);
 
   &:hover {
@@ -127,7 +127,7 @@
     color: #fff;
   }
 
-  &.not-looking { width: 400px; }
+  &.not-looking { width: 600px; }
 }
 
 // resume content styles
