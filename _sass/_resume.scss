@@ -9,10 +9,11 @@
 
   h2 {
     @include sans;
-    font-weight: 900;
+    font-weight: 300;
     font-size: 1.75rem;
     letter-spacing: -.05rem;
     margin: 0;
+    color: #4C566A
   }
 }
 
