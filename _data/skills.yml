@@ -4,17 +4,17 @@
 - skill: EMRs
   description: EPIC, Meditech, Quadramed, PrescribeIT, Healthwatch, Kroll
   
-# Front-end
+# Programming
 - skill: Programming
-  description: Python (MATLAB, Panda, PyTorch, Numpy, Jupyter Notebook) R, Javascript, VS Code, React, Typescript, HTML/CSS
+  description: Python (libraries&colon; MATLAB, Panda, PyTorch, Numpy, Jupyter Notebook), </br> R, Javascript, VS code, React, YAML, LaTeX, Typescript, HTML/CSS, Pine Script 
 
 # Data & visualization
 - skill: Data & Visualization
-  description: SQL, Microsoft Access, Excel, CRM, PowerBI, Matplotlib, Tableau, FlaskApp
+  description: PostgreSQL, Microsoft Access, Excel, PowerBI, Tableau, CRM, Matplotlib, PyMOL, FlaskApp
 
 # Design
 - skill: Design
-  description: Typography, Sketchup modeling, Figma, Adobe Creative Suite (Illustrator, InDesign, Photoshop, Premiere Pro, Audition, Lightroom Catalog Management), UI/UX design
+  description: Typography, Sketchup modeling, Figma, Adobe Creative Suite (Illustrator, InDesign, Photoshop, Premiere Pro), UI/UX design
   
 # Natural languages
 - skill: Languages
